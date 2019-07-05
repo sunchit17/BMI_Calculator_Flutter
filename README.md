@@ -4,6 +4,9 @@ BMI Calculator in Flutter
 
 > Design by Ruben Vaalt on Dribbble 
 
+![](SS1.png)
+![](SS2.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

@@ -2,9 +2,11 @@
 
 BMI Calculator in Flutter
 
-> Design by Ruben Vaalt on Dribbble 
+> Design by Ruben Vaalt on Dribbble   
 
-![](SS1.png)
+[Design Mockup](https://dribbble.com/shots/4585382-Simple-BMI-Calculator)
+
+![](SS1.png)  
 ![](SS2.png)
 
 ## Getting Started
